@@ -1,0 +1,17 @@
+
+
+
+.infopersonal {
+    position: relative;
+    top: -100px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+    top: 200px;
+}
+.estudios {
+    background-color: rgb(44, 160, 154);
+}
